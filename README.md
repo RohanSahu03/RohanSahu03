@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohansahu03&label=Profile%20views&color=0e75b6&style=flat" alt="rohansahu03" /> </p>
 
-- 👀 I'm interested in Web App Development
-- 🌱 I’m currently learning React.js
-- 💞️ I am excited to collaborate and contribute to open source projects on GitHub.
+- 👀 I'm interested in MERN Stack and Java Development
+- 💻 Skilled in building scalable applications using MERN Stack, Spring Boot, and Microservices
+- 💞️ Excited to collaborate and contribute to open-source projects on GitHub.
 - 📫 How to reach me **sahurohankumar47@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
